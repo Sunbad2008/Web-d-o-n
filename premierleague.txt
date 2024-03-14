@@ -1,0 +1,259 @@
+Id	Round	Start time	Status	Home	Home Score	Away	Away Score	Winner Code
+11352521	26	1708977600	finished	West Ham	4	Brentford	2	1
+11352525	26	1708867800	finished	Wolves	1	Sheffield Utd	0	1
+11352493	26	1708804800	finished	Arsenal	4	Newcastle	1	1
+11352490	26	1708795800	finished	Bournemouth	0	Man City	1	2
+11352499	26	1708786800	finished	Aston Villa	4	Forest	2	1
+11352502	26	1708786800	finished	Brighton	1	Everton	1	3
+11352509	26	1708786800	finished	Crystal Palace	3	Burnley	0	1
+11352518	26	1708786800	finished	Man Utd	1	Fulham	2	2
+11352512	26	1708543800	finished	Liverpool	4	Luton	1	1
+11971437	18	1708457400	finished	Man City	1	Brentford	0	1
+11352458	25	1708372800	finished	Everton	1	Crystal Palace	1	3
+11352465	25	1708273800	finished	Luton	1	Man Utd	2	2
+11352481	25	1708264800	finished	Sheffield Utd	0	Brighton	5	2
+11352469	25	1708191000	finished	Man City	1	Chelsea	1	3
+11352453	25	1708182000	finished	Burnley	0	Arsenal	5	2
+11352462	25	1708182000	finished	Fulham	1	Aston Villa	2	2
+11352474	25	1708182000	finished	Newcastle	2	Bournemouth	2	3
+11352478	25	1708182000	finished	Forest	2	West Ham	0	1
+11352486	25	1708182000	finished	Tottenham 	1	Wolves	2	2
+11352450	25	1708173000	finished	Brentford	1	Liverpool	4	2
+11352415	24	1707768000	finished	Crystal Palace	1	Chelsea	3	2
+11352412	24	1707669000	finished	Aston Villa	1	Man Utd	2	2
+11352443	24	1707660000	finished	West Ham	0	Arsenal	6	2
+11352435	24	1707586200	finished	Forest	2	Newcastle	3	2
+11352419	24	1707577200	finished	Fulham	3	Bournemouth	1	1
+11352423	24	1707577200	finished	Liverpool	3	Burnley	1	1
+11352427	24	1707577200	finished	Luton	1	Sheffield Utd	3	2
+11352439	24	1707577200	finished	Tottenham 	2	Brighton	1	1
+11352446	24	1707577200	finished	Wolves	0	Brentford	2	2
+11352431	24	1707568200	finished	Man City	2	Everton	0	1
+11352380	23	1707163200	finished	Brentford	1	Man City	3	2
+11352376	23	1707064200	finished	Arsenal	3	Liverpool	1	1
+11352372	23	1707055200	finished	Bournemouth	1	Forest	1	3
+11352392	23	1707055200	finished	Chelsea	2	Wolves	4	2
+11352398	23	1707055200	finished	Man Utd	3	West Ham	0	1
+11352409	23	1706981400	finished	Sheffield Utd	0	Aston Villa	5	2
+11352383	23	1706972400	finished	Brighton	4	Crystal Palace	1	1
+11352386	23	1706972400	finished	Burnley	2	Fulham	2	3
+11352402	23	1706972400	finished	Newcastle	4	Luton	4	3
+11352395	23	1706963400	finished	Everton	2	Tottenham 	2	3
+11896302	22	1706818500	finished	Wolves	3	Man Utd	4	2
+11352354	22	1706815800	finished	West Ham	1	Bournemouth	1	3
+11352365	22	1706732100	finished	Liverpool	4	Chelsea	1	1
+11352351	22	1706729400	finished	Tottenham 	3	Brentford	2	1
+11352369	22	1706729400	finished	Man City	3	Burnley	1	1
+11352338	22	1706645700	finished	Aston Villa	1	Newcastle	3	2
+11352361	22	1706644800	finished	Crystal Palace	3	Sheffield Utd	2	1
+11352342	22	1706643900	finished	Fulham	0	Everton	0	3
+11352344	22	1706643900	finished	Luton	4	Brighton	0	1
+11352348	22	1706643000	finished	Forest	1	Arsenal	2	2
+11352315	21	1705952700	finished	Brighton	0	Wolves	0	3
+11352308	21	1705854600	finished	Bournemouth	0	Liverpool	4	2
+11352334	21	1705845600	finished	Sheffield Utd	2	West Ham	2	3
+11352313	21	1705771800	finished	Brentford	3	Forest	2	1
+11352311	21	1705753800	finished	Arsenal	5	Crystal Palace	0	1
+11352328	21	1705249800	finished	Man Utd	2	Tottenham 	2	3
+11352324	21	1705240800	finished	Everton	0	Aston Villa	0	3
+11352331	21	1705167000	finished	Newcastle	2	Man City	3	2
+11352321	21	1705149000	finished	Chelsea	1	Fulham	0	1
+11352318	21	1705088700	finished	Burnley	1	Luton	1	3
+11352589	20	1704223800	finished	West Ham	0	Brighton	0	3
+11352580	20	1704139200	finished	Liverpool	4	Newcastle	2	1
+11352577	20	1704031200	finished	Fulham	2	Arsenal	1	1
+11352587	20	1704031200	finished	Tottenham 	3	Bournemouth	1	1
+11352586	20	1703957400	finished	Forest	2	Man Utd	1	1
+11352573	20	1703948400	finished	Aston Villa	3	Burnley	2	1
+11352576	20	1703948400	finished	Crystal Palace	3	Brentford	1	1
+11352583	20	1703948400	finished	Man City	2	Sheffield Utd	0	1
+11352592	20	1703948400	finished	Wolves	3	Everton	0	1
+11352582	20	1703939400	finished	Luton	2	Chelsea	3	2
+11777281	19	1703794500	finished	Arsenal	0	West Ham	2	2
+11777280	19	1703791800	finished	Brighton	4	Tottenham 	2	1
+11352559	19	1703708100	finished	Everton	1	Man City	3	2
+11352547	19	1703705400	finished	Brentford	1	Wolves	4	2
+11352557	19	1703705400	finished	Chelsea	2	Crystal Palace	1	1
+11352563	19	1703620800	finished	Man Utd	3	Aston Villa	2	1
+11352554	19	1703611800	finished	Burnley	0	Liverpool	2	2
+11352541	19	1703602800	finished	Bournemouth	3	Fulham	0	1
+11352569	19	1703602800	finished	Sheffield Utd	2	Luton	3	2
+11352566	19	1703593800	finished	Newcastle	1	Forest	3	2
+11352538	18	1703422800	finished	Wolves	2	Chelsea	1	1
+11352520	18	1703352600	finished	Liverpool	1	Arsenal	1	3
+11352517	18	1703343600	finished	Fulham	0	Burnley	2	2
+11352522	18	1703343600	finished	Luton	1	Newcastle	0	1
+11352528	18	1703343600	finished	Forest	2	Bournemouth	3	2
+11352531	18	1703343600	finished	Tottenham 	2	Everton	1	1
+11352535	18	1703334600	finished	West Ham	2	Man Utd	0	1
+11352511	18	1703275200	finished	Aston Villa	1	Sheffield Utd	1	3
+11352514	18	1703188800	finished	Crystal Palace	1	Brighton	1	3
+11352496	17	1702830600	finished	Liverpool	0	Man Utd	0	3
+11352483	17	1702821600	finished	Arsenal	2	Brighton	0	1
+11352487	17	1702821600	finished	Brentford	1	Aston Villa	2	2
+11352508	17	1702821600	finished	West Ham	3	Wolves	0	1
+11352489	17	1702747800	finished	Burnley	0	Everton	2	2
+11352492	17	1702738800	finished	Chelsea	2	Sheffield Utd	0	1
+11352498	17	1702738800	finished	Man City	2	Crystal Palace	2	3
+11352501	17	1702738800	finished	Newcastle	3	Fulham	0	1
+11352505	17	1702670400	finished	Forest	0	Tottenham 	2	2
+11352473	16	1702225800	finished	Tottenham 	4	Newcastle	1	1
+11352459	16	1702216800	finished	Everton	2	Chelsea	0	1
+11352461	16	1702216800	finished	Fulham	5	West Ham	0	1
+11352464	16	1702216800	finished	Luton	1	Man City	2	2
+11352449	16	1702143000	finished	Aston Villa	1	Arsenal	0	1
+11352452	16	1702134000	finished	Brighton	1	Burnley	1	3
+11352468	16	1702134000	finished	Man Utd	0	Bournemouth	3	2
+11352471	16	1702134000	finished	Sheffield Utd	1	Brentford	0	1
+11352477	16	1702134000	finished	Wolves	1	Forest	1	3
+11352455	16	1702125000	finished	Crystal Palace	1	Liverpool	2	2
+11777279	15	1701980100	finished	Tottenham 	1	West Ham	2	2
+11352424	15	1701977400	finished	Everton	3	Newcastle	0	1
+11352417	15	1701893700	finished	Aston Villa	1	Man City	0	1
+11352445	15	1701893700	finished	Man Utd	2	Chelsea	1	1
+11352421	15	1701891000	finished	Brighton	2	Brentford	1	1
+11352426	15	1701891000	finished	Fulham	5	Forest	0	1
+11352433	15	1701891000	finished	Sheffield Utd	0	Liverpool	2	2
+11352442	15	1701891000	finished	Crystal Palace	0	Bournemouth	2	2
+11352430	15	1701807300	finished	Luton	3	Arsenal	4	2
+11352440	15	1701804600	finished	Wolves	1	Burnley	0	1
+11352405	14	1701621000	finished	Man City	3	Tottenham 	3	3
+11352388	14	1701612000	finished	Bournemouth	2	Aston Villa	2	3
+11352400	14	1701612000	finished	Chelsea	3	Brighton	2	1
+11352404	14	1701612000	finished	Liverpool	4	Fulham	3	1
+11352414	14	1701612000	finished	West Ham	1	Crystal Palace	1	3
+11352408	14	1701547200	finished	Newcastle	1	Man Utd	0	1
+11352411	14	1701538200	finished	Forest	0	Everton	1	2
+11352391	14	1701529200	finished	Arsenal	2	Wolves	1	1
+11352393	14	1701529200	finished	Brentford	3	Luton	1	1
+11352396	14	1701529200	finished	Burnley	5	Sheffield Utd	0	1
+11352366	13	1701115200	finished	Fulham	3	Wolves	2	1
+11352363	13	1701016200	finished	Everton	0	Man Utd	3	2
+11352385	13	1701007200	finished	Tottenham 	1	Aston Villa	2	2
+11352356	13	1700933400	finished	Brentford	0	Arsenal	1	2
+11352360	13	1700924400	finished	Burnley	1	West Ham	2	2
+11352370	13	1700924400	finished	Luton	2	Crystal Palace	1	1
+11352375	13	1700924400	finished	Newcastle	4	Chelsea	1	1
+11352379	13	1700924400	finished	Forest	2	Brighton	3	2
+11352382	13	1700924400	finished	Sheffield Utd	1	Bournemouth	3	2
+11352373	13	1700915400	finished	Man City	1	Liverpool	1	3
+11352332	12	1699806600	finished	Chelsea	4	Man City	4	3
+11352326	12	1699797600	finished	Aston Villa	3	Fulham	1	1
+11352329	12	1699797600	finished	Brighton	1	Sheffield Utd	1	3
+11352339	12	1699797600	finished	Liverpool	3	Brentford	0	1
+11352345	12	1699797600	finished	West Ham	3	Forest	2	1
+11352350	12	1699723800	finished	Bournemouth	2	Newcastle	0	1
+11352335	12	1699714800	finished	Crystal Palace	2	Everton	3	2
+11352341	12	1699714800	finished	Man Utd	1	Luton	0	1
+11352353	12	1699714800	finished	Arsenal	3	Burnley	1	1
+11352349	12	1699705800	finished	Wolves	2	Tottenham 	1	1
+11352323	11	1699300800	finished	Tottenham 	1	Chelsea	4	2
+11352310	11	1699201800	finished	Luton	1	Liverpool	1	3
+11352317	11	1699192800	finished	Forest	2	Aston Villa	0	1
+11352314	11	1699119000	finished	Newcastle	1	Arsenal	0	1
+11352304	11	1699110000	finished	Brentford	3	West Ham	2	1
+11352305	11	1699110000	finished	Burnley	0	Crystal Palace	2	2
+11352306	11	1699110000	finished	Everton	1	Brighton	1	3
+11352312	11	1699110000	finished	Man City	6	Bournemouth	1	1
+11352320	11	1699110000	finished	Sheffield Utd	2	Wolves	1	1
+11352307	11	1699101000	finished	Fulham	0	Man Utd	1	2
+11352675	10	1698593400	finished	Man Utd	0	Man City	3	2
+11352670	10	1698588000	finished	Aston Villa	3	Luton	1	1
+11352671	10	1698588000	finished	Brighton	1	Fulham	1	3
+11352674	10	1698588000	finished	Liverpool	3	Forest	0	1
+11352676	10	1698584400	finished	West Ham	0	Everton	1	2
+11352677	10	1698510600	finished	Wolves	2	Newcastle	2	3
+11352668	10	1698501600	finished	Bournemouth	2	Burnley	1	1
+11352669	10	1698501600	finished	Arsenal	5	Sheffield Utd	0	1
+11352672	10	1698492600	finished	Chelsea	0	Brentford	2	2
+11352673	10	1698433200	finished	Crystal Palace	1	Tottenham 	2	2
+11352667	9	1698087600	finished	Tottenham 	2	Fulham	0	1
+11352658	9	1697988600	finished	Aston Villa	4	West Ham	1	1
+11352666	9	1697914800	finished	Sheffield Utd	1	Man Utd	2	2
+11352661	9	1697905800	finished	Chelsea	2	Arsenal	2	3
+11352657	9	1697896800	finished	Bournemouth	1	Wolves	2	2
+11352660	9	1697896800	finished	Brentford	3	Burnley	0	1
+11352663	9	1697896800	finished	Man City	2	Brighton	1	1
+11352664	9	1697896800	finished	Newcastle	4	Crystal Palace	0	1
+11352665	9	1697896800	finished	Forest	2	Luton	2	3
+11352662	9	1697887800	finished	Liverpool	2	Everton	0	1
+11352647	8	1696779000	finished	Arsenal	1	Man City	0	1
+11352648	8	1696770000	finished	Brighton	2	Liverpool	2	3
+11352655	8	1696770000	finished	West Ham	2	Newcastle	2	3
+11352656	8	1696770000	finished	Wolves	1	Aston Villa	1	3
+11352650	8	1696696200	finished	Crystal Palace	0	Forest	0	3
+11352649	8	1696687200	finished	Burnley	1	Chelsea	4	2
+11352651	8	1696687200	finished	Everton	3	Bournemouth	0	1
+11352652	8	1696687200	finished	Fulham	3	Sheffield Utd	1	1
+11352654	8	1696687200	finished	Man Utd	2	Brentford	1	1
+11352653	8	1696678200	finished	Luton	0	Tottenham 	1	2
+11626262	2	1696357800	finished	Luton	1	Burnley	2	2
+11352640	7	1696273200	finished	Fulham	0	Chelsea	2	2
+11352643	7	1696165200	finished	Forest	1	Brentford	1	3
+11352644	7	1696091400	finished	Tottenham 	2	Liverpool	1	1
+11352637	7	1696082400	finished	Bournemouth	0	Arsenal	4	2
+11352639	7	1696082400	finished	Everton	1	Luton	2	2
+11352641	7	1696082400	finished	Man Utd	0	Crystal Palace	1	2
+11352642	7	1696082400	finished	Newcastle	2	Burnley	0	1
+11352645	7	1696082400	finished	West Ham	2	Sheffield Utd	0	1
+11352646	7	1696082400	finished	Wolves	2	Man City	1	1
+11352638	7	1696073400	finished	Aston Villa	6	Brighton	1	1
+11352636	6	1695569400	finished	Sheffield Utd	0	Newcastle	8	2
+11352627	6	1695560400	finished	Arsenal	2	Tottenham 	2	3
+11352629	6	1695560400	finished	Brighton	3	Bournemouth	1	1
+11352631	6	1695560400	finished	Chelsea	0	Aston Villa	1	2
+11352633	6	1695560400	finished	Liverpool	3	West Ham	1	1
+11352630	6	1695495600	finished	Burnley	0	Man Utd	1	2
+11352628	6	1695486600	finished	Brentford	1	Everton	3	2
+11352632	6	1695477600	finished	Crystal Palace	0	Fulham	0	3
+11352634	6	1695477600	finished	Luton	1	Wolves	1	3
+11352635	6	1695477600	finished	Man City	2	Forest	0	1
+11352618	5	1695062700	finished	Forest	1	Burnley	1	3
+11352605	5	1694964600	finished	Everton	0	Arsenal	1	2
+11352600	5	1694955600	finished	Bournemouth	0	Chelsea	0	3
+11352615	5	1694881800	finished	Newcastle	1	Brentford	0	1
+11352602	5	1694872800	finished	Aston Villa	3	Crystal Palace	1	1
+11352608	5	1694872800	finished	Fulham	1	Luton	0	1
+11352611	5	1694872800	finished	Man Utd	1	Brighton	3	2
+11352621	5	1694872800	finished	Tottenham 	2	Sheffield Utd	1	1
+11352625	5	1694872800	finished	West Ham	1	Man City	3	2
+11352626	5	1694863800	finished	Wolves	1	Liverpool	3	2
+11352534	4	1693755000	finished	Arsenal	3	Man Utd	1	1
+11352578	4	1693746000	finished	Crystal Palace	3	Wolves	2	1
+11352584	4	1693746000	finished	Liverpool	3	Aston Villa	0	1
+11352551	4	1693672200	finished	Brighton	3	Newcastle	1	1
+11352543	4	1693663200	finished	Brentford	2	Bournemouth	2	3
+11352561	4	1693663200	finished	Burnley	2	Tottenham 	5	2
+11352570	4	1693663200	finished	Chelsea	0	Forest	1	2
+11352594	4	1693663200	finished	Man City	5	Fulham	1	1
+11352597	4	1693654200	finished	Sheffield Utd	2	Everton	2	3
+11352590	4	1693594800	finished	Luton	1	West Ham	2	2
+11352515	3	1693150200	finished	Newcastle	1	Liverpool	2	2
+11352475	3	1693141200	finished	Burnley	1	Aston Villa	3	2
+11352524	3	1693141200	finished	Sheffield Utd	1	Man City	2	2
+11352466	3	1693067400	finished	Brighton	1	West Ham	3	2
+11352447	3	1693058400	finished	Arsenal	2	Fulham	2	3
+11352456	3	1693058400	finished	Brentford	1	Crystal Palace	1	3
+11352495	3	1693058400	finished	Everton	0	Wolves	1	2
+11352504	3	1693058400	finished	Man Utd	3	Forest	2	1
+11352437	3	1693049400	finished	Bournemouth	0	Tottenham 	2	2
+11352484	3	1692990000	finished	Chelsea	3	Luton	0	1
+11352346	2	1692644400	finished	Crystal Palace	0	Arsenal	1	2
+11352418	2	1692545400	finished	West Ham	3	Chelsea	1	1
+11352337	2	1692536400	finished	Aston Villa	4	Everton	0	1
+11352389	2	1692471600	finished	Man City	1	Newcastle	0	1
+11352407	2	1692462600	finished	Tottenham 	2	Man Utd	0	1
+11352358	2	1692453600	finished	Fulham	0	Brentford	3	2
+11352367	2	1692453600	finished	Liverpool	3	Bournemouth	1	1
+11352428	2	1692453600	finished	Wolves	1	Brighton	4	2
+11352399	2	1692384300	finished	Forest	2	Sheffield Utd	1	1
+11352327	1	1692039600	finished	Man Utd	1	Wolves	0	1
+11352316	1	1691940600	finished	Chelsea	1	Liverpool	1	3
+11352309	1	1691931600	finished	Brentford	2	Tottenham 	2	3
+11352255	1	1691857800	finished	Newcastle	5	Aston Villa	1	1
+11352250	1	1691848800	finished	Bournemouth	1	West Ham	1	3
+11352252	1	1691848800	finished	Brighton	4	Luton	1	1
+11352253	1	1691848800	finished	Everton	0	Fulham	1	2
+11352254	1	1691848800	finished	Sheffield Utd	0	Crystal Palace	1	2
+11352251	1	1691841600	finished	Arsenal	2	Forest	1	1
+11352303	1	1691780400	finished	Burnley	0	Man City	3	2
